@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yamini749
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web development and Machine Learning
+- 👀 I’m interested in codin
 - 💞️ I’m looking to collaborate on learning focused projects, hackathons, and any interesting coding challenges
 - 📫 How to reach me yaminisettipalli3@gmail.com
 - 😄 Pronouns: she/her
